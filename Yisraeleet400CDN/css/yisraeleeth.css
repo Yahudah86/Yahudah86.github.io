@@ -1,9 +1,9 @@
 @font-face {
-    font-family: "yisraeleet400regular";
-    src: url("../fonts/yisraeleeth400-webfont.woff2") format("woff2"),
-         url("../fonts/yisraeleeth400-webfont.woff") format("woff"),
-         url("../fonts/yisraeleeth400-webfont.ttf") format("truetype"),
-         url("../fonts/yisraeleeth400-webfont.svg#yisraeleeth400regular") format("svg");
+    font-family: "yisraeleeth400regular";
+    src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.woff2") format("woff2"),
+         url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.woff") format("woff"),
+         url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.ttf") format("truetype"),
+         url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.svg#yisraeleeth400regular") format("svg");
     font-weight: normal;
     font-style: normal;
 
