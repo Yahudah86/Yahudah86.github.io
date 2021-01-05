@@ -5,7 +5,8 @@
 	src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.woff2") format("woff2"),
          url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.woff") format("woff"),
          url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.ttf") format("truetype"),
-         url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.svg#yisraeleeth400regular") format("svg");
+         url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.otf") format('opentype'),
+		 url("Yahudah86.github.io/Yisraeleet400CDN/fonts/yisraeleeth400-webfont.svg#yisraeleeth400regular") format("svg");
   font-weight: 400;
     font-style: normal;
     font-stretch: normal;
