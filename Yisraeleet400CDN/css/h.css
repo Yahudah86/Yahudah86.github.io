@@ -1,12 +1,12 @@
 @font-face {
     font-family:"h";
-    src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.eot");
-	src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.eot?#iefix") format("embedded-opentype"),
-		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.woff2") format("woff2"),
-		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.woff") format("woff"),
-		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.ttf") format("truetype"),
-		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.otf") format("opentype"),
-		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h.svg#h") format("svg");
+    src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.eot");
+	src: url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.eot?#iefix") format("embedded-opentype"),
+		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.woff2") format("woff2"),
+		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.woff") format("woff"),
+		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.ttf") format("truetype"),
+		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.otf") format("opentype"),
+		url("Yahudah86.github.io/Yisraeleet400CDN/fonts/h-webfont.svg#h") format("svg");
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
