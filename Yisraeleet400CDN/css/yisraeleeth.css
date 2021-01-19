@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "yisraeleeth400regular";
-    src: url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.eot");
-	src: url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.eot?#iefix") format("embedded-opentype"),
-	     url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.woff2") format("woff2"),
-         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.woff") format("woff"),
-         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.ttf") format("truetype"),
-         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.otf") format("opentype"),
-		 url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth400regular.svg#yisraeleeth400regular") format("svg");
+    font-family: "yisraeleet400regular";
+    src: url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.eot");
+	src: url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.eot?#iefix") format("embedded-opentype"),
+	     url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.woff2") format("woff2"),
+         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.woff") format("woff"),
+         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.ttf") format("truetype"),
+         url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.otf") format("opentype"),
+		 url("yahudah86.github.io/yisraeleet400CDN/fonts/yisraeleeth.svg#yisraeleeth") format("svg");
   font-weight: 400;
     font-style: normal;
     font-stretch: normal;
