@@ -1,12 +1,12 @@
 @font-face {
   font-family: "yisraeleet400";
-    src: url("/fonts/yisraeleet.eot"); /* IE9 Compat Modes */
-	src: url("/fonts/yisraeleet.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-	     url("/fonts/yisraeleet.woff2") format("woff2"), /* Super Modern Browsers */
-         url("/fonts/yisraeleet.woff") format("woff"), /* Pretty Modern Browsers */
-         url("/fonts/yisraeleet.ttf") format("truetype"), /* Safari, Android, iOS */
-         url("/fonts/yisraeleet.otf") format("opentype"),
-		 url("/fonts/yisraeleet.svg#yisraeleeth") format("svg"); /* Legacy iOS */
+    src: url("/fonts/yisraeleeth400regular.eot"); /* IE9 Compat Modes */
+	src: url("/fonts/yisraeleeth400regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+	     url("/fonts/yisraeleeth400regular.woff2") format("woff2"), /* Super Modern Browsers */
+         url("/fonts/yisraeleeth400regular.woff") format("woff"), /* Pretty Modern Browsers */
+         url("/fonts/yisraeleeth400regular.ttf") format("truetype"), /* Safari, Android, iOS */
+         url("/fonts/yisraeleeth400regular.otf") format("opentype"),
+		 url("/fonts/yisraeleeth400regular.svg#yisraeleeth") format("svg"); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
     unicode-range: U+0008-FB4F;
