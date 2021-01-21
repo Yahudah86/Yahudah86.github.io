@@ -11,3 +11,4 @@
     font-style: normal;
     unicode-range: U+0008-FB4F;
 }
+p { font-size: 45pt; } blockquote { font-size: larger } em { font-size: 150% } em { font-size: 1.5em }
