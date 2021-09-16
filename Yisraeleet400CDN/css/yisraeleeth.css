@@ -7,7 +7,7 @@
          url("../yisraeleet.ttf") format("truetype"), /* Safari, Android, iOS */
          url("../yisraeleet.otf") format("opentype"),
 		 url("../yisraeleet.svg#yisraeleeth") format("svg"); /* Legacy iOS */
-    font-size: 40px;
+    font-size: 25px;
     font-style: normal;
     unicode-range: U+0008-FB4F;
 }
