@@ -12,3 +12,15 @@
     unicode-range: U+0008-FB4F;
 }
 p { font-size: 44pt; } blockquote { font-size: larger } em { font-size: 150% } em { font-size: 1.5em }
+@font-face {
+    font-family: "yisraeleeth400_eng_translit";
+    src: url("../fonts/yisraeleethengtranslit-webfont.eot");
+    src: url("../fonts/yisraeleethengtranslit-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/yisraeleethengtranslit-webfont.woff2") format("woff2"),
+         url("../fonts/yisraeleethengtranslit-webfont.woff") format("woff"),
+         url("../fonts/yisraeleethengtranslit-webfont.ttf") format("truetype"),
+         url("../fonts/yisraeleethengtranslit-webfont.svg#yisraeleeth400_eng_translitRg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
