@@ -13,15 +13,14 @@
 }
 p { font-size: 44pt; } blockquote { font-size: larger } em { font-size: 150% } em { font-size: 1.5em }
 @font-face {
-    font-family: "yisraeleeth400_eng_translit";
-    src: url("../fonts/yisraeleethengtranslit-webfont.eot");
-    src: url("../fonts/yisraeleethengtranslit-webfont.eot?#iefix") format("embedded-opentype"),
-         url("../fonts/yisraeleethengtranslit-webfont.woff2") format("woff2"),
-         url("../fonts/yisraeleethengtranslit-webfont.woff") format("woff"),
-         url("../fonts/yisraeleethengtranslit-webfont.ttf") format("truetype"),
-		 url("../fonts/yisraeleethengtranslit-webfont.otf") format("opentype"),
-         url("../fonts/yisraeleethengtranslit-webfont.svg#yisraeleeth400_eng_translitRg") format("svg");
+    font-family: 'Yisraeleeth400 eng translit';
+    src: url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.eot');
+    src: url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.eot?#iefix') format('embedded-opentype'),
+        url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.woff2') format('woff2'),
+        url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.woff') format('woff'),
+        url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.ttf') format('truetype'),
+        url('https/Yahudah86.github.io/Yisraeleet400CDN/fonts/subset-Yisraeleethengtranslit.svg#Yisraeleethengtranslit') format('svg');
     font-weight: normal;
     font-style: normal;
-    unicode-range: U+0008-FB4F;
+    font-display: block;
 }
