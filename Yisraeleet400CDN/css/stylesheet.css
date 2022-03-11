@@ -19,6 +19,7 @@ p { font-size: 44pt; } blockquote { font-size: larger } em { font-size: 150% } e
          url("../fonts/yisraeleethengtranslit-webfont.woff2") format("woff2"),
          url("../fonts/yisraeleethengtranslit-webfont.woff") format("woff"),
          url("../fonts/yisraeleethengtranslit-webfont.ttf") format("truetype"),
+		 url("../fonts/yisraeleethengtranslit-webfont.otf") format("opentype"),
          url("../fonts/yisraeleethengtranslit-webfont.svg#yisraeleeth400_eng_translitRg") format("svg");
     font-weight: normal;
     font-style: normal;
