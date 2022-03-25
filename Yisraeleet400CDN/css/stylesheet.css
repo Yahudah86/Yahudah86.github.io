@@ -12,18 +12,7 @@
     unicode-range: U+0008-FB4F;
 }
 
-@font-face {
-    font-family: "yisraeleethengtranslit";
-    src: url("../fonts/yisraeleethengtranslit.eot");
-    src: url("../fonts/yisraeleethengtranslit.eot?#iefix") format("embedded-opentype"),
-         url("../fonts/yisraeleethengtranslit.woff2") format("woff2"),
-         url("../fonts/yisraeleethengtranslit.woff") format("woff"),
-         url("../fonts/yisraeleethengtranslit.ttf") format("truetype"),
-         url("../fonts/yisraeleethengtranslit.svg#yisraeleeth400engtranslitRg") format("svg");
-    font-weight: normal;
-    font-style: normal;
 
-}
 @font-face {
   font-family: "yisraeleethengtranslit";
     src: url("../fonts/yisraeleethengtranslit.eot"); /* IE9 Compat Modes */
