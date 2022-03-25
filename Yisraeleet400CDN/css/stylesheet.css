@@ -14,12 +14,12 @@
 p { font-size: 44pt; } blockquote { font-size: larger } em { font-size: 150% } em { font-size: 1.5em }
 @font-face {
     font-family: 'yisraeleethengtranslit';
-    src: url('yisraeleethengtranslit.eot');
-    src: url('yisraeleethengtranslit.eot?#iefix') format('embedded-opentype'),
-         url('yisraeleethengtranslit.woff2') format('woff2'),
-         url('yisraeleethengtranslit.woff') format('woff'),
-         url('yisraeleethengtranslit.ttf') format('truetype'),
-         url('yisraeleethengtranslit.svg#yisraeleeth400engtranslitRg') format('svg');
+    src: url('../fonts/yisraeleethengtranslit.eot');
+    src: url('../fonts/yisraeleethengtranslit.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/yisraeleethengtranslit.woff2') format('woff2'),
+         url('../fonts/yisraeleethengtranslit.woff') format('woff'),
+         url('../fonts/yisraeleethengtranslit.ttf') format('truetype'),
+         url('../fonts/yisraeleethengtranslit.svg#yisraeleeth400engtranslitRg') format('svg');
     font-weight: normal;
     font-style: normal;
 
