@@ -24,3 +24,16 @@
     font-style: normal;
 
 }
+@font-face {
+  font-family: "yisraeleethengtranslit";
+    src: url("../fonts/yisraeleethengtranslit.eot"); /* IE9 Compat Modes */
+	src: url("../fonts/yisraeleethengtranslit.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+	     url("../fonts/yisraeleethengtranslit.woff2") format("woff2"), /* Super Modern Browsers */
+         url("../fonts/yisraeleethengtranslit.woff") format("woff"), /* Pretty Modern Browsers */
+         url("../fonts/yisraeleethengtranslit.ttf") format("truetype"), /* Safari, Android, iOS */
+         url("../fonts/yisraeleethengtranslit.otf") format("opentype"),
+		 url("../fonts/yisraeleethengtranslit.svg#yisraeleethengtranslitRg") format("svg"); /* Legacy iOS */
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0008-FB4F;
+}
