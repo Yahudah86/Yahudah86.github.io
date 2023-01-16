@@ -1,16 +1,4 @@
-@font-face {
-  font-family: "yisraeleet400";
-    src: url("../fonts/yisraeleet.eot"); /* IE9 Compat Modes */
-	src: url("../fonts/yisraeleet.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-	     url("../fonts/yisraeleet.woff2") format("woff2"), /* Super Modern Browsers */
-         url("../fonts/yisraeleet.woff") format("woff"), /* Pretty Modern Browsers */
-         url("../fonts/yisraeleet.ttf") format("truetype"), /* Safari, Android, iOS */
-         url("../fonts/yisraeleet.otf") format("opentype"),
-		 url("../fonts/yisraeleet.svg#yisraeleeth") format("svg"); /* Legacy iOS */
-    font-weight: 400;
-    font-style: normal;
-    unicode-range: U+0008-FB4F;
-}
+fi            x  
 
 
 @font-face {
@@ -26,3 +14,11 @@
     font-style: normal;
     unicode-range: U+0008-FB4F;
 }
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleeth400regular.otf
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleet.woff2
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleet.woff
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleet.ttf
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleet.svg
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/yisraeleet.eot
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/Yisraeleet.otf
+sftp://zmsnapp.wordpress.com@sftp.wp.com/htdocs/wp-content/themes/fonts/BackwardsLTR.ttf
